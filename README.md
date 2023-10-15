@@ -4,6 +4,8 @@
 
 This project is a simple e-commerce app that will scrape the best deals currently on amazon using the Oxylabs API and return a sorted list by percentage drop. The app has additional sections currently disabled for Aliexpress, eBay and Etsy for additional features.
 
+You will need to register for a free trial at Oxylabs to use this app. Click <a href="https://oxylabs.io/products/scraper-api/ecommerce">here<a/> link to register for the E-Commerce Scraper API. Once registered you wil need to update your username and password in the .env file.
+
 <p align="center">
     <img src="./src/images/Deal_Finder.png" width="650" height="800px" border="10px" align="center"/>
 <p/>
